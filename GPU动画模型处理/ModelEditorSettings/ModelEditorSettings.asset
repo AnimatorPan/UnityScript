@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 630bbbbdbd124f369fb018dedf812969, type: 3}
+  m_Name: ModelEditorSettings
+  m_EditorClassIdentifier: 
+  m_modelSaveDataDict:
+  - ModelTypeEnum: 0
+    PrefabSaveDir: Assets/Resources/Actor/Player/Tps
+  - ModelTypeEnum: 4
+    PrefabSaveDir: Assets/Resources/Actor/Player/GPU/
+  - ModelTypeEnum: 1
+    PrefabSaveDir: Assets/Resources/Actor/Monster/Enemy/
+  - ModelTypeEnum: 2
+    PrefabSaveDir: Assets/Resources/Actor/Pets/
+  - ModelTypeEnum: 3
+    PrefabSaveDir: Assets/Resources/Actor/Boss/
+  - ModelTypeEnum: 5
+    PrefabSaveDir: Assets/Resources/Actor/Monster/Enemy/
+  - ModelTypeEnum: 6
+    PrefabSaveDir: Assets/Resources/Actor/Monster/Enemy/
